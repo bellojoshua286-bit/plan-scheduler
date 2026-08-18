@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "PlanScheduler",
+    "slug": "planscheduler",
+    "version": "1.0.0",
+    "scheme": "planscheduler",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
