@@ -21,7 +21,7 @@ A mobile scheduling app built solo with React Native (Expo) and Supabase. Users 
 
 ## Screenshots
 
-*(Add a few screenshots here — home screen, add-plan form, theme picker)*
+
 
 ## Roadmap
 
